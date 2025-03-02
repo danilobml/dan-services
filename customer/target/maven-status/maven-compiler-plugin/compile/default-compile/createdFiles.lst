@@ -1,1 +1,7 @@
+com/danilobml/customer/controllers/CustomerController.class
+com/danilobml/customer/models/CustomerRegistrationRequest.class
+com/danilobml/customer/models/Customer.class
+com/danilobml/customer/services/CustomerService.class
+com/danilobml/customer/repositories/CustomerRepository.class
+com/danilobml/customer/models/Customer$CustomerBuilder.class
 com/danilobml/customer/CustomerApplication.class
