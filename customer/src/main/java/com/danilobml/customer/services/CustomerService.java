@@ -22,7 +22,9 @@ public class CustomerService {
     public void registerCustomer(CustomerRegistrationRequestDTO customerRegistrationRequest) {
         
         FraudCheckResponseDTO fraudCheckresponse = restTemplate.getForObject(
-            "http://localhost:8081/api/v1/fraud-check/{customerEmail}", FraudCheckResponseDTO.class,
+            // Direct: "http://localhost:8081/api/v1/fraud-check/{customerEmail}"
+            // With Eureka:
+            "http://FRAUD/api/v1/fraud-check/{customerEmail}", FraudCheckResponseDTO.class,
                 customerRegistrationRequest.getEmail()
             );
 

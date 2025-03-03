@@ -11,6 +11,8 @@ import lombok.Builder;
 import lombok.Data;
 import lombok.NoArgsConstructor;
 
+
+// NOTE - This DB table simulates an external API that checks fraudsters 
 @Data
 @Builder
 @AllArgsConstructor
