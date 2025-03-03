@@ -1,3 +1,13 @@
-com/danilobml/fraud/FraudApplication.class
-com/danilobml/fraud/models/FraudCheckHistory$FraudCheckHistoryBuilder.class
+com/danilobml/fraud/controllers/FraudCheckController.class
+com/danilobml/fraud/dtos/FraudCheckResponseDTO.class
+com/danilobml/fraud/dtos/RegisterFraudsterDTO.class
 com/danilobml/fraud/models/FraudCheckHistory.class
+com/danilobml/fraud/models/Fraudster$FraudsterBuilder.class
+com/danilobml/fraud/controllers/FraudsterController.class
+com/danilobml/fraud/repositories/FraudCheckHistoryRepository.class
+com/danilobml/fraud/repositories/FraudsterRepository.class
+com/danilobml/fraud/services/FraudCheckHistoryService.class
+com/danilobml/fraud/FraudApplication.class
+com/danilobml/fraud/models/Fraudster.class
+com/danilobml/fraud/services/FraudsterService.class
+com/danilobml/fraud/models/FraudCheckHistory$FraudCheckHistoryBuilder.class

@@ -1,6 +1,12 @@
+/home/danilobml/Development/KurseUTutorials/java-microservices/dan-services/customer/src/main/java/com/danilobml/customer/validation/UniqueEmailValidator.java
+/home/danilobml/Development/KurseUTutorials/java-microservices/dan-services/customer/src/main/java/com/danilobml/customer/exceptions/CustomerIsFraudsterException.java
 /home/danilobml/Development/KurseUTutorials/java-microservices/dan-services/customer/src/main/java/com/danilobml/customer/models/Customer.java
 /home/danilobml/Development/KurseUTutorials/java-microservices/dan-services/customer/src/main/java/com/danilobml/customer/repositories/CustomerRepository.java
-/home/danilobml/Development/KurseUTutorials/java-microservices/dan-services/customer/src/main/java/com/danilobml/customer/models/CustomerRegistrationRequest.java
+/home/danilobml/Development/KurseUTutorials/java-microservices/dan-services/customer/src/main/java/com/danilobml/customer/validation/UniqueEmail.java
+/home/danilobml/Development/KurseUTutorials/java-microservices/dan-services/customer/src/main/java/com/danilobml/customer/dtos/CustomerRegistrationRequestDTO.java
+/home/danilobml/Development/KurseUTutorials/java-microservices/dan-services/customer/src/main/java/com/danilobml/customer/config/CustomerConfig.java
 /home/danilobml/Development/KurseUTutorials/java-microservices/dan-services/customer/src/main/java/com/danilobml/customer/controllers/CustomerController.java
 /home/danilobml/Development/KurseUTutorials/java-microservices/dan-services/customer/src/main/java/com/danilobml/customer/CustomerApplication.java
+/home/danilobml/Development/KurseUTutorials/java-microservices/dan-services/customer/src/main/java/com/danilobml/customer/services/GlobalExceptionHandler.java
+/home/danilobml/Development/KurseUTutorials/java-microservices/dan-services/customer/src/main/java/com/danilobml/customer/dtos/FraudCheckResponseDTO.java
 /home/danilobml/Development/KurseUTutorials/java-microservices/dan-services/customer/src/main/java/com/danilobml/customer/services/CustomerService.java

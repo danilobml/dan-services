@@ -6,4 +6,6 @@ import com.danilobml.customer.models.Customer;
 
 public interface CustomerRepository extends JpaRepository<Customer, Integer>{
     
+    boolean existsByEmail(String email);
+
 }

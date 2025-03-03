@@ -1,7 +1,13 @@
 com/danilobml/customer/controllers/CustomerController.class
-com/danilobml/customer/models/CustomerRegistrationRequest.class
-com/danilobml/customer/models/Customer.class
+com/danilobml/customer/validation/UniqueEmail.class
 com/danilobml/customer/services/CustomerService.class
 com/danilobml/customer/repositories/CustomerRepository.class
+com/danilobml/customer/dtos/FraudCheckResponseDTO.class
 com/danilobml/customer/models/Customer$CustomerBuilder.class
+com/danilobml/customer/models/Customer.class
+com/danilobml/customer/services/GlobalExceptionHandler.class
 com/danilobml/customer/CustomerApplication.class
+com/danilobml/customer/config/CustomerConfig.class
+com/danilobml/customer/validation/UniqueEmailValidator.class
+com/danilobml/customer/exceptions/CustomerIsFraudsterException.class
+com/danilobml/customer/dtos/CustomerRegistrationRequestDTO.class

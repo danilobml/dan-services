@@ -1,2 +1,11 @@
+/home/danilobml/Development/KurseUTutorials/java-microservices/dan-services/fraud/src/main/java/com/danilobml/fraud/dtos/RegisterFraudsterDTO.java
+/home/danilobml/Development/KurseUTutorials/java-microservices/dan-services/fraud/src/main/java/com/danilobml/fraud/repositories/FraudsterRepository.java
+/home/danilobml/Development/KurseUTutorials/java-microservices/dan-services/fraud/src/main/java/com/danilobml/fraud/services/FraudCheckHistoryService.java
+/home/danilobml/Development/KurseUTutorials/java-microservices/dan-services/fraud/src/main/java/com/danilobml/fraud/dtos/FraudCheckResponseDTO.java
+/home/danilobml/Development/KurseUTutorials/java-microservices/dan-services/fraud/src/main/java/com/danilobml/fraud/services/FraudsterService.java
+/home/danilobml/Development/KurseUTutorials/java-microservices/dan-services/fraud/src/main/java/com/danilobml/fraud/repositories/FraudCheckHistoryRepository.java
+/home/danilobml/Development/KurseUTutorials/java-microservices/dan-services/fraud/src/main/java/com/danilobml/fraud/controllers/FraudCheckController.java
+/home/danilobml/Development/KurseUTutorials/java-microservices/dan-services/fraud/src/main/java/com/danilobml/fraud/controllers/FraudsterController.java
 /home/danilobml/Development/KurseUTutorials/java-microservices/dan-services/fraud/src/main/java/com/danilobml/fraud/models/FraudCheckHistory.java
+/home/danilobml/Development/KurseUTutorials/java-microservices/dan-services/fraud/src/main/java/com/danilobml/fraud/models/Fraudster.java
 /home/danilobml/Development/KurseUTutorials/java-microservices/dan-services/fraud/src/main/java/com/danilobml/fraud/FraudApplication.java
